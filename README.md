@@ -1,3 +1,5 @@
+[![Coverage Status](https://coveralls.io/repos/github/codeconditioner/EntityFrameworkCore/badge.svg?branch=)](https://coveralls.io/github/codeconditioner/EntityFrameworkCore?branch=)
+
 # Entity Framework Core
 
 Documentation on using EF Core is available at <https://docs.microsoft.com/ef/core/>.
